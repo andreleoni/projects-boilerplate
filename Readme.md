@@ -1,0 +1,3 @@
+# Projects Boilerplate
+
+"terraform apply"
